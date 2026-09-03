@@ -30,7 +30,6 @@ The dashboard analyzes:
 
 - Microsoft Excel / CSV
 - SQL Server
-- SQL
 - Power Query
 - Power BI
 - DAX
